@@ -1,0 +1,82 @@
+@charset "utf-8";
+header{
+	padding: 0.675rem 0.6rem 0.35rem 0.6rem;
+	background-color: #38474F;
+	margin-bottom: 0.5rem;
+}
+.hd_top{
+	height: 0.75rem;
+	line-height: 0.75rem;
+	font-size: 0.85rem;
+	margin-bottom: 0.75rem;
+}
+.hd_top h5{
+	margin-left: 1.125rem;
+	color: #fff;
+}
+.hd_top span{
+	position: relative;
+}
+.hd_top span i{
+	width: 0.7rem;
+	height: 0.45rem;
+	background-color: #fff;
+	border-radius:0.225rem;
+	position: absolute;
+	right:-0.45rem; top:-0.005rem;
+	text-align: center;
+	line-height: 0.45rem;
+	font-size: 0.3rem;
+	font-style: normal;
+}
+.hd_btm a{
+	width: 5.925rem;
+	height: 1.575rem;
+	line-height: 1.575rem;
+	text-align: center;
+	color: #fff;
+	font-size: 0.5rem;
+	font-family: 'Arial';
+	transition: 1s;
+	border-radius: 2px;
+	
+}
+.hd_btm a:hover{
+	box-shadow: 0 0 10px rgba(255,0,0,.8);
+}
+.hd_btm .btn1{
+	background-color: #2D3A40;
+}
+.hd_btm .btn2{
+	background-color: #F6846A;
+}
+.banner{
+	margin:0 0.6rem;
+	box-shadow: 1px 3px 10px #ccc;
+	padding-bottom: 0.675rem;
+}
+.banner img{
+	height: 11.8rem;
+	width: 14.8rem;
+}
+.banner .money{
+	margin-top:0.675rem ;
+	height: 1.675rem;
+	line-height: 1.675rem;
+	font-size: 0.65rem;
+}
+.banner .btn3{
+	width: 3.6rem;
+	height: 1.675rem;
+	border-radius: 0.05rem;	
+	background-color: #BFBFC3;
+	text-align: center;
+	line-height:1.675rem;
+	margin-right: 0.6rem;
+	color: #fff;
+
+}
+.banner .btn4{
+	margin-left: 1rem;
+}
+
